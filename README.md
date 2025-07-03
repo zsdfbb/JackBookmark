@@ -2,13 +2,17 @@
 
 [zsdfbb (zsdfbb) / Repositories · GitHub](https://github.com/zsdfbb?tab=repositories)
 
-
-
 ## seL4
 
 [sel4 手册](https://sel4.systems/Info/Docs/seL4-manual-latest.pdf)
 
 [Tutorials | seL4 docs](https://docs.sel4.systems/Tutorials/)
+
+[Microkit | seL4 docs](https://docs.sel4.systems/projects/microkit/)
+
+[seL4 Microkit Tutorial]([Welcome - seL4 Microkit Tutorial](https://trustworthy.systems/projects/microkit/tutorial/))
+
+
 
 
 
@@ -35,6 +39,12 @@
 [通义](https://tongyi.aliyun.com/qianwen/?sessionId=8acbdc04c82b418590840b4c95a40079)
 
 [大模型 API 价格方案 - 硅基流动 SiliconFlow](https://www.siliconflow.cn/pricing)
+
+[ollama](https://ollama.com/)
+
+[About LM Studio | LM Studio Docs](https://lmstudio.ai/docs/app)
+
+
 
 ## 文档
 

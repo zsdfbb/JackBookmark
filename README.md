@@ -10,7 +10,7 @@
 
 [Microkit | seL4 docs](https://docs.sel4.systems/projects/microkit/)
 
-[seL4 Microkit Tutorial]([Welcome - seL4 Microkit Tutorial](https://trustworthy.systems/projects/microkit/tutorial/))
+[Welcome - seL4 Microkit Tutorial](https://trustworthy.systems/projects/microkit/tutorial/)
 
 
 

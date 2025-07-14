@@ -54,6 +54,11 @@
 
 [pwndbg 基本操作指令](https://www.cnblogs.com/murkuo/p/15965270.html)
 
+
+## 在线书籍
+
+[人月神话](https://cactus-proj.github.io/The-Mythical-Man-Month-zh/ch1.html)
+
 ## 杂项
 
 [2k自然壁纸-风景图片-《精选壁纸》「哲风壁纸」](https://haowallpaper.com/homeViewLook/15690592192336192)

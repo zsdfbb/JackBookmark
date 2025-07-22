@@ -36,6 +36,8 @@
 
 [DeepSeek](https://chat.deepseek.com/)
 
+[kimi k2](https://www.kimi.com/)
+
 [通义](https://tongyi.aliyun.com/qianwen/?sessionId=8acbdc04c82b418590840b4c95a40079)
 
 [大模型 API 价格方案 - 硅基流动 SiliconFlow](https://www.siliconflow.cn/pricing)
